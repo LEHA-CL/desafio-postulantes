@@ -1,0 +1,23 @@
+{
+  "name": "desafio-postulantes",
+  "version": "1.0.0",
+  "description": "solucion a desafio ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LEHA-CL/desafio-postulantes.git"
+  },
+  "author": "Luis Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LEHA-CL/desafio-postulantes/issues"
+  },
+  "homepage": "https://github.com/LEHA-CL/desafio-postulantes#readme",
+  "dependencies": {
+    "puppeteer": "^13.6.0"
+  }
+}
